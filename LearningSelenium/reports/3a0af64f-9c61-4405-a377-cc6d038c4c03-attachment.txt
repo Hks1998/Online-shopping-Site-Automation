@@ -1,0 +1,15 @@
+Delhi
+All details successfully verified for user  hks@test.com !!!!
+Testing completed
+Karnataka
+All details successfully verified for user  nks@test.com !!!!
+Testing completed
+Uttar Pradesh
+All details successfully verified for user  kks@test.com !!!!
+Testing completed
+Maharashtra
+All details successfully verified for user  jks@test.com !!!!
+Testing completed
+Punjab
+All details successfully verified for user  uks@test.com !!!!
+Testing completed

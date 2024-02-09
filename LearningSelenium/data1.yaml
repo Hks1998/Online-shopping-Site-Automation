@@ -1,0 +1,87 @@
+
+'USERNAMES_LIST' : [
+  'hks@test.com',
+  'nks@test.com',
+  'kks@test.com',
+  'jks@test.com',
+  'uks@test.com'
+]
+
+'PASSWORDS_LIST' : [
+  'abc@1234',
+  'cde@1234',
+  'def@1234',
+  'fab@1234',
+  'abd@1234'
+
+]
+
+'FIRST_NAME_LIST' : [
+  'Rahul',
+  'Rajesh',
+  'Priyanka',
+  'Mahi',
+  'Harry'
+]
+
+'LAST_NAME_LIST' : [
+  'Agarwal',
+  'Saini',
+  'Patel',
+  'Kumar',
+  'Baweja'
+]
+
+'COMPANIES' : [
+  'WIPRO',
+  'TCS',
+  'Meta',
+  'Apple',
+  'Microsoft Corp Ltd.'
+  ]
+
+'ADDRESS' : [
+    '122-A,Preet Vihar',
+    '9-Paradise Residency',
+    'Grace Apartments,Sector-12',
+    'Aashray,New Verma Layout',
+    'House No-55,Kosi Kalan'
+  ]
+
+'CITY' : [
+  'New Delhi',
+  'Chikkamagaluru',
+  'Gurugram',
+  'Nagpur',
+  'Bhatinda'
+  ]
+'STATE' : [
+  '542',
+  '549',
+  '566',
+  '553',
+  '560'
+  ]
+'ZIP_CODE' : [
+  '400001',
+  '422201',
+  '423121',
+  '440028',
+  '412122'
+]
+
+'PHONE' : [
+  '9890221821',
+  '9999988888',
+  '8099454333',
+  '7878667878',
+  '7987445668'
+]
+
+'STATE_NAMES' : [
+'Delhi',
+'Karnataka',
+'Uttar Pradesh',
+'Maharashtra',
+'Punjab'
+]
